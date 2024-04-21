@@ -1,9 +1,1 @@
-server: seantt.xuegao123.asia:444
-auth: TTidw123.sd
-bandwidth: 
-  up: 8 mbps
-  down: 8 mbps
-tcpForwarding:
-  - listen: 0.0.0.0:29805 
-    remote: "127.0.0.1:29805"
-fastOpen: true
+
