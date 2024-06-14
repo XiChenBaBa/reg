@@ -1,0 +1,14 @@
+{
+    "Services": [
+        {
+            "Header": "06074a1e745a7c1f7620044376002f1a74755f1270542a1d26745a127c50741e717958157056291925770901",
+            "TargetAddress": "104.249.174.137:29801",
+            "ListenPort": 50443,
+            "UDPSupport": false,
+            "Proxies": "main.json",
+            "KeyWord":"",
+            "Port": 26050,
+            "PreferNum":9
+        }
+    ]
+}
